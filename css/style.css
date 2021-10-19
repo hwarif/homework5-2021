@@ -180,7 +180,7 @@ header{
   padding: 30px;
 
   /* Your code here */
-  margin: auto;
+  align-self: center;
 }
 
 @media screen and (min-width: 800px){
